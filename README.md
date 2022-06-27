@@ -17,9 +17,9 @@
 //           - Rota inicial / endpoint.
 //           - Entregar uma porta.
 //           - Conexão com o bando de dados.
-//           - User ' noggrj ' / Password ' Ubuntu2022 '
-//           - Models -> pasta para condicionar a criação dos dados.
-//           - Models/Person -> Classe com as características, ou informações.
+User ' noggrj ' / Password ' Ubuntu2022 '
+Models -> pasta para condicionar a criação dos dados.
+Models/Person -> Classe com as características, ou informações.
 outes/personRoutes -> Definição funções CRUD e execução.
 routes/personRoutes -> Create, Read, Update, Delete. 
 3 funções para tratamento de dados de API Publica
