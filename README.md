@@ -17,7 +17,7 @@
 //           - Rota inicial / endpoint.
 //           - Entregar uma porta.
 //           - Conexão com o bando de dados.
-User ' noggrj ' / Password ' Ubuntu2022 '
+User ' noggrj ' / Password '  '
 Models -> pasta para condicionar a criação dos dados.
 Models/Person -> Classe com as características, ou informações.
 outes/personRoutes -> Definição funções CRUD e execução.
